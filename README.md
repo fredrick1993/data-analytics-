@@ -1,2 +1,2 @@
-# data-analytics-
-explanation and development of repository for job insecurity and immigrants
+# data-analytics intern quantum-
+Data preparation and customer analytics
